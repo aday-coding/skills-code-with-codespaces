@@ -19,5 +19,6 @@
              "codespace.md"
          ]
      }
- }
+  },
+  "postCreateCommand": "echo 'Post-create command executed!'"
 }
